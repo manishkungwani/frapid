@@ -1,0 +1,6 @@
+﻿{
+    "FromName" : "",
+    "FromEmail" : "",
+	"ApiKey": "Your Mandrill Api Key",
+	"Enabled": false
+}
